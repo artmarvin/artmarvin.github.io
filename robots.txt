@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artmarvin.github.io/sitemap.xml
